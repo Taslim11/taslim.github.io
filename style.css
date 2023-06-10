@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #2F4F4F;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #D3D3D3;
+    color: #2F4F4F;
+}
+.jumbotron p {
+    color: #2F4F4F;
+}
+
+a {
+    color: #2F4F4F;
+}
+
+#project {
+    background-color: #D3D3D3;
+}
+
+section {
+    padding-top: 5rem;
+}
+.btn {
+    background-color: #2F4F4F;
+}
+
+.footer {
+    background-color: #2F4F4F;
+}
